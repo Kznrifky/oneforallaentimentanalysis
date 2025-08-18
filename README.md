@@ -1,2 +1,3 @@
-# oneforallaentimentanalysis
 A Lexicon-Based Sentiment Analysis of YouTube Comments on the Merah Putih One for All Animation
+
+This project conducted a sentiment analysis on the public reception of the 'Merah Putih: One for All' animation, specifically focusing on commentary from YouTube. Utilizing a lexicon-based approach, the study aimed to quantify the audience's reaction by categorizing comments into positive, negative, and neutral sentiments. The findings reveal that the animation was met with overwhelmingly negative feedback, indicating it has become a source of significant public criticism and anger among Indonesian netizens. The results from the analysis starkly illustrate the animation's poor reception. The final sentiment distribution is as follows Negative 571 comments, Neutral 326 comments,and Positive 11 comments.
