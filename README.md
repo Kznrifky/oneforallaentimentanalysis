@@ -23,7 +23,7 @@ This project demonstrates skills in:
 ---
 
 ## 🗂️ Dataset
-- **Source**: YouTube public comments
+- **Source**: YouTube Public Comments
 - **Language**: Indonesian
 - **Format**: CSV
 - **File**: `animasi.csv`
