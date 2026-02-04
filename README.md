@@ -37,7 +37,7 @@ This project demonstrates skills in:
 - **NumPy**
 - **Regex**
 - **Lexicon-based sentiment dictionary**
-- **YouTube comment scraping**
+- **YouTube Comment scraping**
 
 ---
 
@@ -71,7 +71,3 @@ Final sentiment distribution:
 
 **Key Insight:**  
 The animation received **overwhelmingly negative sentiment**, indicating strong public criticism and dissatisfaction among Indonesian viewers.
-
----
-
-## 📁 Project Structure
