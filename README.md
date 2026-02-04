@@ -1,3 +1,77 @@
-A Lexicon-Based Sentiment Analysis of YouTube Comments on the Merah Putih One for All Animation
+# 📊 Lexicon-Based Sentiment Analysis of YouTube Comments  
+### *Merah Putih: One for All Animation*
 
-This project conducted a sentiment analysis on the public reception of the 'Merah Putih: One for All' animation, specifically focusing on commentary from YouTube. Utilizing a lexicon-based approach, the study aimed to quantify the audience's reaction by categorizing comments into positive, negative, and neutral sentiments. The findings reveal that the animation was met with overwhelmingly negative feedback, indicating it has become a source of significant public criticism and anger among Indonesian netizens. The results from the analysis starkly illustrate the animation's poor reception. The final sentiment distribution is as follows Negative 571 comments, Neutral 326 comments,and Positive 11 comments.
+## 🧠 Project Overview
+This project analyzes public sentiment toward the **"Merah Putih: One for All"** animation by examining YouTube comments using a **lexicon-based sentiment analysis approach**.  
+The goal is to understand audience reactions and categorize them into **positive, negative, and neutral sentiments**.
+
+This project demonstrates skills in:
+- Data scraping
+- Text preprocessing
+- Sentiment analysis
+- Exploratory data analysis
+- Python & Jupyter Notebook workflow
+
+---
+
+## 🎯 Objectives
+- Scrape YouTube comments related to *Merah Putih: One for All*
+- Clean and preprocess Indonesian text data
+- Perform sentiment classification using a lexicon-based method
+- Analyze sentiment distribution to evaluate public perception
+
+---
+
+## 🗂️ Dataset
+- **Source**: YouTube public comments
+- **Language**: Indonesian
+- **Format**: CSV
+- **File**: `animasi.csv`
+
+---
+
+## 🛠️ Tools & Technologies
+- **Python**
+- **Jupyter Notebook**
+- **Pandas**
+- **NumPy**
+- **Regex**
+- **Lexicon-based sentiment dictionary**
+- **YouTube comment scraping**
+
+---
+
+## 🔍 Methodology
+1. **Data Collection**
+   - Scraped comments from YouTube using Python
+2. **Text Preprocessing**
+   - Case folding
+   - Removing punctuation, numbers, and symbols
+   - Tokenization
+3. **Sentiment Analysis**
+   - Lexicon-based scoring approach
+   - Classification into:
+     - Positive
+     - Neutral
+     - Negative
+4. **Exploratory Analysis**
+   - Sentiment distribution analysis
+   - Interpretation of public opinion trends
+
+---
+
+## 📈 Results
+Final sentiment distribution:
+
+| Sentiment | Number of Comments |
+|---------|-------------------|
+| Negative | 571 |
+| Neutral  | 326 |
+| Positive | 11  |
+
+**Key Insight:**  
+The animation received **overwhelmingly negative sentiment**, indicating strong public criticism and dissatisfaction among Indonesian viewers.
+
+---
+
+## 📁 Project Structure
